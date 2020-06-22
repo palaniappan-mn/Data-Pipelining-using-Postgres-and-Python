@@ -1,4 +1,4 @@
-# Data-Pipelining-using-Postgres-and-Python
+# Data-Warehousing-using-Postgres-and-Python
 #### **Project Overview:**
 <div style="text-align: justify">
 Sparkify is a music streaming platform which lets user to listen to music for a fixed monthly premium.It has dedicated repository of music from which the user
